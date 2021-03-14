@@ -24,6 +24,7 @@ class HomePage extends StatelessWidget {
           color: Colors.black,
         ),
       ),
+      floatingActionButton: FloatingActionButton(onPressed: null)
     );
   }
 }
